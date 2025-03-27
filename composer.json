@@ -1,5 +1,5 @@
 {
-    "name": "amadeco/db-override",
+    "name": "amadeco/module-db-override",
     "description": "A module to enable experimental mariadb 11.0 support before offical support is available.",
     "license": "MIT",
     "require": {

@@ -7,6 +7,14 @@
         "magento/framework": "*"
     },
     "type": "magento2-module",
+    "authors": [
+        {
+            "name": "Ilan Parmentier @ Amadeco",
+            "email": "dev@amadeco.fr",
+            "homepage": "https://www.amadeco.fr",
+            "role": "Developer"
+        }
+    ],
     "autoload": {
         "files": [
             "registration.php"

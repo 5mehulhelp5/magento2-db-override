@@ -1,6 +1,6 @@
-# Contributing to Amadeco GalleryExtras Module
+# Contributing to Amadeco DbOverride Module
 
-We welcome contributions to the Amadeco GalleryExtras module! Here are some guidelines to help you contribute:
+We welcome contributions to the Amadeco DbOverride module! Here are some guidelines to help you contribute:
 
 ## How to Contribute
 

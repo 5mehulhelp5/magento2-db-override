@@ -2,7 +2,7 @@
 
 [![Latest Stable Version](https://img.shields.io/github/v/release/Amadeco/magento2-db-override)](https://github.com/Amadeco/magento2-db-override/releases)
 [![Magento 2](https://img.shields.io/badge/Magento-2.4.x-brightgreen.svg)](https://magento.com)
-[![PHP](https://img.shields.io/badge/PHP-8+.svg)](https://www.php.net)
+[![PHP](https://img.shields.io/badge/PHP-8+-brightblue.svg)](https://www.php.net)
 [![License](https://img.shields.io/github/license/Amadeco/magento2-db-override)](https://github.com/Amadeco/magento2-db-override/blob/main/LICENSE)
 
 [SPONSOR: Amadeco](https://www.amadeco.fr)

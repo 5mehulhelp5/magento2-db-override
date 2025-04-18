@@ -7,8 +7,6 @@
 
 [SPONSOR: Amadeco](https://www.amadeco.fr)
 
-## Overview
-
 Extend database version compatibility for Magento 2 with experimental support for MariaDB 11.0 and enhanced version detection.
 
 **Only useful for versions of Magento < 2.4.8**
